@@ -1,0 +1,8 @@
+[02-Dec-2020 17:52:08 UTC] PHP Parse error:  syntax error, unexpected '$email_body' (T_VARIABLE) in /home/hiraljot/public_html/contact.php on line 35
+[02-Dec-2020 17:52:33 UTC] PHP Notice:  Undefined index: visitor_name in /home/hiraljot/public_html/contact.php on line 10
+[02-Dec-2020 17:52:33 UTC] PHP Notice:  Undefined index: visitor_email in /home/hiraljot/public_html/contact.php on line 17
+[02-Dec-2020 17:53:13 UTC] PHP Notice:  Undefined index: visitor_name in /home/hiraljot/public_html/contact.php on line 10
+[02-Dec-2020 17:53:13 UTC] PHP Notice:  Undefined index: visitor_email in /home/hiraljot/public_html/contact.php on line 17
+[03-Dec-2020 13:49:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hiraljot/public_html/contact.php on line 14
+[03-Dec-2020 17:51:49 UTC] PHP Notice:  Undefined index: submit in /home/hiraljot/public_html/index.php on line 2
+[03-Dec-2020 18:21:23 UTC] PHP Notice:  Undefined variable: niyuvora7@gmail.com in /home/hiraljot/public_html/contact.php on line 24
