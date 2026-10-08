@@ -18,7 +18,7 @@ export const about = {
   eyebrow: 'About',
   title: 'Technology With a Purpose',
   lead: 'Great software starts with understanding the problem, not choosing the technology.',
-  body: 'I bring 6+ years of software engineering experience across mobile, web, AI, automation, and connected technologies. My focus is turning complex requirements into products that are practical, scalable, intuitive, and ready for the real world.',
+  body: 'I bring 7+ years of software engineering experience across mobile, web, AI, automation, and connected technologies. My focus is turning complex requirements into products that are practical, scalable, intuitive, and ready for the real world.',
   close:
     'From shaping an idea and defining the right architecture to building, integrating, and evolving the final product, I take a solution-focused approach to technology.',
   mantra: 'Think strategically. Build intelligently. Create impact.',
@@ -243,7 +243,7 @@ export const values = [
 export const insights = [
   {
     title: 'When Does a Business Actually Need AI?',
-    body: 'A business needs AI when a specific decision, workflow, or customer experience is limited by human scale — not when AI is fashionable. The useful question is simple: what outcome improves if this system can learn, generate, or decide? If the answer is vague, the problem is still a process problem, not a model problem.',
+    body: 'A business needs AI when a specific decision, workflow, or customer experience is limited by human scale - not when AI is fashionable. The useful question is simple: what outcome improves if this system can learn, generate, or decide? If the answer is vague, the problem is still a process problem, not a model problem.',
   },
   {
     title: 'Why Most MVPs Have Too Many Features',
@@ -259,11 +259,11 @@ export const insights = [
   },
   {
     title: 'What Should You Automate First?',
-    body: 'Start with work that is repetitive, rules-based, high-volume, and easy to measure. Automate the bottleneck that steals time from thinking — not the work that still needs taste. The first automation should create trust, not theatre.',
+    body: 'Start with work that is repetitive, rules-based, high-volume, and easy to measure. Automate the bottleneck that steals time from thinking - not the work that still needs taste. The first automation should create trust, not theatre.',
   },
   {
     title: 'Building an AI Feature Is Easy. Building One People Need Is Hard.',
-    body: 'Models are accessible. Useful AI is not. The hard part is choosing the job to be done, designing the interaction, handling failure, and fitting intelligence into a real workflow. A feature nobody relies on is not innovation — it is decoration.',
+    body: 'Models are accessible. Useful AI is not. The hard part is choosing the job to be done, designing the interaction, handling failure, and fitting intelligence into a real workflow. A feature nobody relies on is not innovation - it is decoration.',
   },
   {
     title: 'The Real Cost of Building a Software Product',

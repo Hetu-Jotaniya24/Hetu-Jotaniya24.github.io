@@ -901,9 +901,7 @@ main {
 /* Motion */
 
 .reveal {
-  opacity: 0;
-  transform: translateY(12px);
-  animation: rise 0.45s steps(6, end) forwards;
+  animation: rise 0.45s steps(6, end) backwards;
 }
 
 .d2 {
@@ -911,9 +909,9 @@ main {
 }
 
 @keyframes rise {
-  to {
-    opacity: 1;
-    transform: none;
+  from {
+    opacity: 0;
+    transform: translateY(12px);
   }
 }
 
@@ -1049,10 +1047,5 @@ main {
   *::after {
     animation: none !important;
     transition: none !important;
-  }
-
-  .reveal {
-    opacity: 1;
-    transform: none;
   }
 }

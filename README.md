@@ -1,4 +1,4 @@
-# Hiral Jotaniya — Portfolio
+# Hiral Jotaniya - Portfolio
 
 A single-page portfolio for a senior software consultant. The design follows a calm palette: warm off-white, navy text, sky-blue accents, and a dark contrast band.
 
